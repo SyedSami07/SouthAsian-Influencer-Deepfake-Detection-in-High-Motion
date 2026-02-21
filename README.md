@@ -9,9 +9,9 @@ With the surge of short-form video content (Reels, TikToks), deepfake technology
 * **Model Performance:** Evaluating ResNet50, Xception, and MobileNetV2 for real-world authentication.
 
 ## 📊 Dataset specification
-- **Total Samples:** 12,308 frames extracted from 155 viral videos.
-- **Classes:** - **AI-Generated:** 89 videos of South Asian influencers created via deepfake tools.
-  - **Real:** 66 authentic viral reels.
+- **Total Samples:** x no of videos.
+- **Classes:** - **AI-Generated:** x no of videos of South Asian influencers created via deepfake tools.
+  - **Real:** x no of authentic viral reels.
 - **Source:** Social media platforms (Instagram, YouTube, TikTok).
 
 ## 🚀 Key Results (ResNet50)
