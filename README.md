@@ -1,4 +1,4 @@
-# SouthAsian-Influencer-Deepfake-Detection 🇮🇳 🇧🇩 🇵🇰
+# SouthAsian-Influencer-Deepfake-Detection  🇧🇩 🇵🇰 🇮🇳 🇳🇵
 
 ## Project Overview
 With the surge of short-form video content (Reels, TikToks), deepfake technology is being used to create misleading content of South Asian influencers. This project focuses on detecting deepfakes in viral South Asian reels, which often contain complex dance moves, cultural attire, and varying lighting conditions.
